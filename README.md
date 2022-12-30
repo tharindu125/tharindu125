@@ -4,7 +4,7 @@
 <img align="right" alt="Coding" width="370" src="https://user-images.githubusercontent.com/44457989/164160616-78ac548d-a16f-4f7f-a502-8db5d1d477e3.jpg">
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=tharindu125&label=Profile%20views&color=0e75b6&style=flat" alt="tharindu125" /> </p>
+<p align="left"><img src="https://komarev.com/ghpvc/?username=tharindu125&label=Profile%20views&color=0e75b6&style=flat" alt="tharindu125" /> </p>
 
 - 🌱 I’m currently learning **ReactJs, NodeJs**
 
