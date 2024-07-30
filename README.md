@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Tharindu Ranaweera</h1>
-<h3 align="center">A student of Institute of Technology University of Moratuwa</h3>
+<h3 align="center">Undergraduate at  University of Moratuwa. Associate Software Engineer at MintHRM</h3>
 
 <img align="right" alt="Coding" width="370" src="https://user-images.githubusercontent.com/44457989/164160616-78ac548d-a16f-4f7f-a502-8db5d1d477e3.jpg">
 
 
 <p align="left"><img src="https://komarev.com/ghpvc/?username=tharindu125&label=Profile%20views&color=0e75b6&style=flat" alt="tharindu125" /> </p>
 
-- 🌱 I’m currently learning **ReactJs, NodeJs**
+- 🌱 I'm currently involved with **JavaScript, PHP**
 
 - 📫 How to reach me **nawanjanaenda@gmail.com**
 
